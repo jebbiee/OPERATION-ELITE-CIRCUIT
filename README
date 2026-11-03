@@ -14,7 +14,7 @@ A Java console-based tournament management application developed for the Data St
 - Tournament standings and statistics
 - Automatic data saving and loading
 
-## Technologies
+## Technologies na ginamit
 - Java
 - Arrays
 - User-defined Methods
@@ -33,7 +33,7 @@ OPERATION-ELITE-CIRCUIT/
 └── README.md
 ```
 
-## How to Run
+## Pano irurun
 
 1. Install Java JDK.
 2. Open the project folder.
@@ -46,5 +46,5 @@ OPERATION-ELITE-CIRCUIT/
    `java -cp out EliteCircuit`
 
 ## Academic Information
-Course: Data Structures and Algorithms  
-Project Type: Individual Activity  
+Course:   BSIT (2A)
+Project Type: Data Structures and Algorithms Individual Activity  
