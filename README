@@ -1,0 +1,50 @@
+
+# OPERATION: ELITE CIRCUIT
+### FPS Esports Tournament Management System
+
+A Java console-based tournament management application developed for the Data Structures and Algorithms course.
+
+## Features
+- Register and manage squads
+- Manage five-player rosters
+- Search registered squads
+- Simulate Best-of-3 matches
+- Random map and score generation
+- Match history tracking
+- Tournament standings and statistics
+- Automatic data saving and loading
+
+## Technologies
+- Java
+- Arrays
+- User-defined Methods
+- Loops and Conditional Statements
+- File Handling
+
+## Project Structure
+```text
+OPERATION-ELITE-CIRCUIT/
+├── src/
+│   └── EliteCircuit.java
+├── data/
+├── documentation/
+├── screenshots/
+├── .gitignore
+└── README.md
+```
+
+## How to Run
+
+1. Install Java JDK.
+2. Open the project folder.
+3. Compile:
+
+   `javac -d out src/EliteCircuit.java`
+
+4. Run:
+
+   `java -cp out EliteCircuit`
+
+## Academic Information
+Course: Data Structures and Algorithms  
+Project Type: Individual Activity  

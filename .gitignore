@@ -1,0 +1,14 @@
+
+# Ignore actual tournament records
+data/teams.txt
+data/matches.txt
+
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
